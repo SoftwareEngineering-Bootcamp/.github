@@ -1,25 +1,26 @@
 # Software Engineering Portfolio
-## Projects from the Software Engineering Program with TripleTen
 
-Welcome to the **{SoftwareEngineering-Bootcamp}** portfolio.  
+Welcome to the **SoftwareEngineering-Bootcamp** portfolio, my projects from the Software Engineering Program with TripleTen.  
 This organization contains projects built during my Software Engineering curriculum, where I contributed as a beta tester.
 
 ## Featured Projects
 
 | Project | Description | Tech Stack |
-|[News Explorer | Frontend](https://github.com/SoftwareEngineering-Bootcamp/news-explorer-frontend.git)|The frontend of the full-stack website that allows users to search for news articles and save them to their profiles|React.js, JavaScript, MERN, RESTful API|
-|[News Explorer | Backend](https://github.com/SoftwareEngineering-Bootcamp/news-explorer-api.git)|The backend of the the full-stack News Explorer that retrieves user searches from the [News API service](https://newsapi.org)|MongoDB, Node.js, Express.js, MERN, Trello|
+|---------|-------------|------------|
+|[News Explorer | Frontend](https://github.com/SoftwareEngineering-Bootcamp/news-explorer-frontend.git)|The frontend of the full-stack website that allows users to search for news articles and save them to their profiles|React.js, JavaScript, MERN, REST API, GCP|
+|[News Explorer | Backend](https://github.com/SoftwareEngineering-Bootcamp/news-explorer-api.git)|The backend of the the full-stack News Explorer that retrieves user searches from the [News API service](https://newsapi.org)|MongoDB, Node.js, Express.js, GCP, Trello|
 |[Around the U.S.](https://github.com/SoftwareEngineering-Bootcamp/around-express.git)|Full-stack React website to display a traveler's journey Around the U.S.|React.js, JavaScript|
 
 ## Skills
-- Full-stack web development MERN stack (MongoDB, Express, Node, React)
-- API design and integration, connecting third-party APIs
+- Full-stack web development MERN stack (MongoDB, Express, Node, React, SQL)
+- REST API design and integration, connecting a Third-Party APIs
+- Authentication, Authorization, Form Validation, Web Application Security (Nginx/PM2, HTTPS, SSL, Certbot)
 - Object-Oriented Programming, Adaptive Web Design, and building with Webpack
-- Cloud deployment with Google Cloud Platform
+- Cloud deployment and hosting on Google Cloud platform
 - Automated testing, debugging
 - Tools: **Git, Trello, Postman, Figma**
 
-All projects in this organization documents my progression through the program. Each project builds on the previous one, from basics to advanced HTML+CSS, to adaptive designing, to full-stack MERN development.
+All projects in this organization documents my progression through the program. Each project builds on the previous one, from basics to advanced HTML & CSS, to adaptive designing, to full-stack MERN development.
 
 <!--
 
