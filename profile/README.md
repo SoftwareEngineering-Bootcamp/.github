@@ -20,7 +20,7 @@ This organization contains projects built during my Software Engineering curricu
 - Automated testing, debugging
 - Tools: **Git, Trello, Postman, Figma**
 
-All projects in this organization documents my progression through the program. Each project builds on the previous one, from basics to advanced HTML & CSS, to adaptive designing, to full-stack MERN development.
+All projects in this organization documents my progression through the program. Each project builds on the previous one, from basics to advanced HTML & CSS, to adaptive designing, to full-stack MERN development. The curriculum provides a wide range of projects based on the following technologies: HTML5, CSS3, Flexbox, Grid layout, BEM methodologies, Media queries, transition and animation in CSS, JavaScript/JSX, DOM elements, Debugging, Git, Github, Figma, Form validation, Object Oriented Programming, Webpack, NPM, React, React components, React Hooks, Node,js, Express.js, Database, MongoDB, Mongoose, Rest API, backend deployment with Micorsoft Azure, Google Cloud Platform.
 
 <!--
 
