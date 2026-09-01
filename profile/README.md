@@ -7,8 +7,8 @@ This organization contains projects built during my Software Engineering curricu
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-|[News Explorer | Frontend](https://github.com/SoftwareEngineering-Bootcamp/news-explorer-frontend.git)|The frontend of the full-stack website that allows users to search for news articles and save them to their profiles|React.js, JavaScript, MERN, REST API, GCP|
-|[News Explorer | Backend](https://github.com/SoftwareEngineering-Bootcamp/news-explorer-api.git)|The backend of the the full-stack News Explorer that retrieves user searches from the [News API service](https://newsapi.org)|MongoDB, Node.js, Express.js, GCP, Trello|
+|[News Explorer - Frontend](https://github.com/SoftwareEngineering-Bootcamp/news-explorer-frontend.git)|The frontend of the full-stack website that allows users to search for news articles and save them to their profiles|React.js, JavaScript, MERN, REST API, GCP|
+|[News Explorer - Backend](https://github.com/SoftwareEngineering-Bootcamp/news-explorer-api.git)|The backend of the the full-stack News Explorer that retrieves user searches from the [News API service](https://newsapi.org)|MongoDB, Node.js, Express.js, GCP, Trello|
 |[Around the U.S.](https://github.com/SoftwareEngineering-Bootcamp/around-express.git)|Full-stack React website to display a traveler's journey Around the U.S.|React.js, JavaScript|
 
 ## Skills
